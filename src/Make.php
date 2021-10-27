@@ -168,7 +168,6 @@ class Make
      * @var array<\DOMElement>
      */
     protected $aDet = [];
-
     /**
      * @var string
      */
